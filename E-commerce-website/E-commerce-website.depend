@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1609236419 source:d:\c programming\e-commerce-website\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"helper.h"
+	"category.h"
+	"product.h"
+
+1609160067 d:\c programming\e-commerce-website\category.h
+
+1609234360 d:\c programming\e-commerce-website\helper.h
+
+1609159928 d:\c programming\e-commerce-website\product.h
+

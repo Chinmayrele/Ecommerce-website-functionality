@@ -1,0 +1,6 @@
+fruits
+mobiles
+electronics
+clothes
+snacks
+beverages
